@@ -23,9 +23,8 @@
 ### `01 / ABOUT`
 
 ```text
-> independent developer
+> developer
 > building personal software projects
-> exploring useful tools and interfaces
 ```
 
 ### `02 / LANGUAGES`
@@ -40,16 +39,15 @@
 ### `03 / CURRENT FOCUS`
 
 ```text
-> improving my skills
-> developing personal projects
-> learning and experimenting
+> No
+> No
+> No
 ```
 
 ### `04 / PROJECTS`
 
 ```text
-> exploring...
-> more projects coming soon
+> Reverse
 ```
 
 ---
