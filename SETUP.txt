@@ -1,0 +1,12 @@
+GITHUB PROFILE SETUP
+
+1. Create a public repository named exactly the same as your GitHub username.
+   For this example, that would be: montaress
+2. Upload README.md to the root of that repository.
+3. Upload the assets folder too, keeping this path unchanged:
+   assets/montaress-banner.png
+4. Replace "montaress" in README.md with your actual username if needed.
+5. Set your avatar separately in GitHub Settings > Public profile.
+6. GitHub profile README supports Markdown/HTML, but the left profile sidebar,
+   top navigation, and exact page layout in the reference screenshot cannot be
+   customized by README code. The README customizes the main profile content.
